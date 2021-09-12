@@ -1,2 +1,2 @@
 Rencana tahun ini
-- Belajar Framework
+- Belajar struktur data
