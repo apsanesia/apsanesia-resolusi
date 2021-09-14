@@ -1,1 +1,2 @@
 Rencana tahun ini
+- Algoritma
